@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=794EF7&center=true&random=false&width=435&lines=My+name+is+Rafael+Teles...;I%C2%B4m+software+developer+)](https://git.io/typing-svg)
 
+<img src="https://i.gifer.com/5TMy.gif" alt="GIF">
+
+
 ### Tools & Technologies:
 
 <p align="center">
